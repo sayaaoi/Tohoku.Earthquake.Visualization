@@ -9,3 +9,4 @@ Interactive Data visualization of Tohoku Earthquake
 - [Find element's index in Pandas Series](https://stackoverflow.com/questions/18327624/find-elements-index-in-pandas-series)
 - [Find Rows Where Column/Field Is Null](https://dzone.com/articles/pandas-find-rows-where-columnfield-is-null)
 - [Find non-numeric rows(applymap)](https://stackoverflow.com/questions/21771133/finding-non-numeric-rows-in-dataframe-in-pandas)
+- [Reduce number of ticks](https://stackoverflow.com/questions/6682784/how-to-reduce-number-of-ticks-with-matplotlib)
