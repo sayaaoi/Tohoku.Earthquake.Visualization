@@ -10,3 +10,4 @@ Interactive Data visualization of Tohoku Earthquake
 - [Find Rows Where Column/Field Is Null](https://dzone.com/articles/pandas-find-rows-where-columnfield-is-null)
 - [Find non-numeric rows(applymap)](https://stackoverflow.com/questions/21771133/finding-non-numeric-rows-in-dataframe-in-pandas)
 - [Reduce number of ticks](https://stackoverflow.com/questions/6682784/how-to-reduce-number-of-ticks-with-matplotlib)
+- [Annotate different coordinates](https://matplotlib.org/api/pyplot_api.html#matplotlib.pyplot.annotate)
